@@ -1,2 +1,8 @@
-# radar-de-anomalias
-Detector de anomalias em lançamentos financeiros - projeto de estudo em Python
+# Radar de Anomalias
+Projeto de estudo em Python para identificar lançamentos financeiros fora do padrão.
+
+## Objetivo
+Aprender programação do zero aplicando os conceitos a um problema real de auditoria.
+
+## Status
+Semana 1 — fundamentos da linguagem.
