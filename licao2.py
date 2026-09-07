@@ -5,5 +5,5 @@ valor = 10000.00
 limite_alcada = 5000.00
 aprovada = True
 print(descricao)
-print(valor == limite_alcada)
+print(valor > limite_alcada)
 print(type(aprovada))
